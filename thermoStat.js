@@ -1,6 +1,6 @@
 /*
 Simple Hello World in Node.js
-execute on https://www.tutorialspoint.com/execute_nodejs_online.php
+For run this script, please visit https://www.tutorialspoint.com/execute_nodejs_online.php
 */
 let sakelar = "ON";
 let suhu = 80;
