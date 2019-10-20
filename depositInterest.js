@@ -1,4 +1,8 @@
-/* Simple Hello World in Node.js */
+/*
+Simple Hello World in Node.js
+For run this script, please visit https://www.tutorialspoint.com/execute_nodejs_online.php
+*/
+
 let klien = 19;
 let setoran = 100000;
 let bunga;
